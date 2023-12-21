@@ -1,5 +1,5 @@
 
-<a href="https://marketplace.atlassian.com/apps/1219033/assertthat-bdd-cucumber-for-jira?hosting=cloud&tab=overview&utm_source=github&utm_medium=profile&utm_campaign=github_link"><kbd><img src="https://user-images.githubusercontent.com/16775850/235613796-f8067a1b-c835-4606-87a4-d1fc37d7c5b6.png"></kbd></a>
+<a href="https://marketplace.atlassian.com/apps/1219033/assertthat-bdd-cucumber-for-jira?hosting=cloud&tab=overview&utm_source=github&utm_medium=profile&utm_campaign=github_link"><img src="https://user-images.githubusercontent.com/16775850/235613796-f8067a1b-c835-4606-87a4-d1fc37d7c5b6.png"></a>
 <br>
 <br>
 <p align="center">
